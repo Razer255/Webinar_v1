@@ -44,10 +44,7 @@ npm install
 npm run dev
 ```
 
-## Default Credentials
 
-- Email: admin@webinar.com
-- Password: admin123
 
 ## Features
 
